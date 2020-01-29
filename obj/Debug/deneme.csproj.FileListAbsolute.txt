@@ -1,0 +1,10 @@
+C:\Users\tuneryusuf\source\repos\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\tuneryusuf\source\repos\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\tuneryusuf\source\repos\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\tuneryusuf\source\repos\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\tuneryusuf\source\repos\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\tuneryusuf\source\repos\deneme\deneme\obj\Debug\deneme.Form2.resources
+C:\Users\tuneryusuf\source\repos\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\tuneryusuf\source\repos\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\tuneryusuf\source\repos\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\tuneryusuf\source\repos\deneme\deneme\obj\Debug\deneme.pdb
